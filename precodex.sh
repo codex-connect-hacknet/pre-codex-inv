@@ -12,8 +12,10 @@ codex_02="johnx"
 codex_03="takken"
 codex_04="userx"
 codex_05="usery"
+codex_06="Flipout50"
 echo $codex_01
 echo $codex_02
 echo $codex_03
 echo $codex_04
 echo $codex_05
+echo $codex_06
