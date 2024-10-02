@@ -25,6 +25,7 @@ codex_15="Samello"
 codex_16="Algo21"
 codex_17="TheRexxy"
 codex_18="hellisabove"
+codex_19="0x9c"
 
 echo $codex_01
 echo $codex_02
