@@ -25,6 +25,7 @@ codex_15="Samello"
 codex_16="Algo21"
 codex_17="TheRexxy"
 codex_18="hellisabove"
+codex_19="Steve"
 
 echo $codex_01
 echo $codex_02
@@ -44,3 +45,4 @@ echo $codex_15
 echo $codex_16
 echo $codex_17
 echo $codex_18
+echo $codex_19
