@@ -42,6 +42,7 @@ codex_32="toastbread"
 codex_33="poliecho"
 codex_34="lunarbacon"
 codex_35="brine"
+codex_36="Him_Jalpert"
 
 echo $codex_01
 echo $codex_02
@@ -78,3 +79,4 @@ echo $codex_32
 echo $codex_33
 echo $codex_34
 echo $codex_35
+echo $codex_36
