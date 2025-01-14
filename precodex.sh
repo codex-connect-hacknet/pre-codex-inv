@@ -7,7 +7,7 @@
 # If you are on windows, use cygwin
 # https://www.cygwin.com/
 
-codex_01="YYWYWY"
+codex_01="Noah631"
 codex_02="johnx"
 codex_03="takken"
 codex_04="userx"
