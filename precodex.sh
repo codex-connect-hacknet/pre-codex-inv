@@ -45,6 +45,7 @@ codex_35="brine"
 codex_36="Him_Jalpert"
 codex_37="S0b3l1x"
 codex_38="SeemsLegit24"
+codex_479="tex"
 
 echo $codex_01
 echo $codex_02
@@ -84,3 +85,4 @@ echo $codex_35
 echo $codex_36
 echo $codex_37
 echo $codex_38
+echo $codex_479
