@@ -48,6 +48,7 @@ codex_38="SeemsLegit24"
 codex_39="karorogunso"
 codex_40="deja"
 codex_41="RobbeDM"
+codex_42="Q"
 
 echo $codex_01
 echo $codex_02
@@ -90,3 +91,4 @@ echo $codex_38
 echo $codex_39
 echo $codex_40
 echo $codex_41
+echo $codex_42
