@@ -51,6 +51,7 @@ codex_41="RobbeDM"
 codex_42="kim-kostya"
 codex_43="Sylph"
 codex_44="D4rks1de1"
+codex_45="bastisawesome"
 
 echo $codex_01
 echo $codex_02
