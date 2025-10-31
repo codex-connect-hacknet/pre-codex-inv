@@ -7,7 +7,7 @@
 # If you are on windows, use cygwin
 # https://www.cygwin.com/
 
-codex_01="tskxz"
+codex_01="kay-a11y"
 codex_02="johnx"
 codex_03="takken"
 codex_04="userx"
