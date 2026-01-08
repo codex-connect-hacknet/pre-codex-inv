@@ -7,8 +7,8 @@
 # If you are on windows, use cygwin
 # https://www.cygwin.com/
 
-codex_01="tskxz"
-codex_02="johnx"
+codex_01="Igoruuu"
+codex_02="Ran"
 codex_03="takken"
 codex_04="userx"
 codex_05="usery"
