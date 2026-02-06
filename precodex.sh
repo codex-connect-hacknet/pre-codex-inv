@@ -60,6 +60,7 @@ codex_50="jahnIbon"
 codex_51="xxxmaxx-dot"
 codex_52="Pickup_"
 codex_53="laosong300"
+codex_54="KateKarui"
 
 echo $codex_01
 echo $codex_02
@@ -114,3 +115,4 @@ echo $codex_50
 echo $codex_51
 echo $codex_52
 echo $codex_53
+echo $codex_54
