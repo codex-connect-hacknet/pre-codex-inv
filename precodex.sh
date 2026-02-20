@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Example 
-## codex_15="myusername"
+## codex_15="CARbine"
 # echo #codex_15
 # Run the script with: bash precodex.sh
 # If you are on windows, use cygwin
@@ -21,7 +21,7 @@ codex_11="lile5ko"
 codex_12="CrispyMerchant"
 codex_13="Ca1c"
 codex_14="alch"
-codex_15="Samello"
+codex_15="CARBINE"
 codex_16="Algo21"
 codex_17="TheRexxy"
 codex_18="hellisabove"
