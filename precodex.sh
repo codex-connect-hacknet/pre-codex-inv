@@ -51,7 +51,17 @@ codex_41="RobbeDM"
 codex_42="kim-kostya"
 codex_43="Sylph"
 codex_44="D4rks1de1"
-codex_45="shinita2007"
+codex_45="lile5ko"
+codex_46="Vitrium"
+codex_47="TheKatssh"
+codex_48="Mist131"
+codex_49="TimeTravellingToaster"
+codex_50="jahnIbon"
+codex_51="xxxmaxx-dot"
+codex_52="Pickup_"
+codex_53="laosong300"
+codex_54="shinita2007"
+
 
 echo $codex_01
 echo $codex_02
@@ -98,3 +108,12 @@ echo $codex_42
 echo $codex_43
 echo $codex_44
 echo $codex_45
+echo $codex_46
+echo $codex_47
+echo $codex_48
+echo $codex_49
+echo $codex_50
+echo $codex_51
+echo $codex_52
+echo $codex_53
+echo $codex_54
