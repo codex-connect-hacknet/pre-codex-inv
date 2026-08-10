@@ -61,6 +61,37 @@ codex_51="xxxmaxx-dot"
 codex_52="Pickup_"
 codex_53="laosong300"
 codex_54="shinita2007"
+codex_55="GhostzZ21"
+codex_56="Herocomplex"
+codex_57="leha44581"
+codex_58="JnamerZ"
+codex_59="CARBINE"
+codex_60="Igoruuu"
+codex_61="Ran"
+codex_62="123"
+codex_63="Nathten333"
+codex_64="KenK02"
+codex_65="Kalom"
+codex_66="RoseClip"
+codex_67="lsq"
+codex_68="MelRakki"
+codex_69="3MK"
+codex_70="Shadrix"
+codex_71="fenveros"
+codex_72="a.bealdhild"
+codex_73="elriea2000"
+codex_74="simlaoo"
+codex_75="CCSynergy73"
+codex_76="vaodj"
+codex_77="cyber"
+codex_78="SOgz12Z3Ce"
+codex_79="KateKarui"
+codex_80="kelvin-pratama"
+codex_81="pyroman"
+codex_82="Nina Predap, Third Floret"
+codex_83="kilgarts"
+codex_84="opituf"
+codex_85="lukey"
 
 
 echo $codex_01
@@ -117,3 +148,34 @@ echo $codex_51
 echo $codex_52
 echo $codex_53
 echo $codex_54
+echo $codex_55
+echo $codex_56
+echo $codex_57
+echo $codex_58
+echo $codex_59
+echo $codex_60
+echo $codex_61
+echo $codex_62
+echo $codex_63
+echo $codex_64
+echo $codex_65
+echo $codex_66
+echo $codex_67
+echo $codex_68
+echo $codex_69
+echo $codex_70
+echo $codex_71
+echo $codex_72
+echo $codex_73
+echo $codex_74
+echo $codex_75
+echo $codex_76
+echo $codex_77
+echo $codex_78
+echo $codex_79
+echo $codex_80
+echo $codex_81
+echo $codex_82
+echo $codex_83
+echo $codex_84
+echo $codex_85
