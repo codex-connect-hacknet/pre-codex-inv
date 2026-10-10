@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Example 
+# Example
 ## codex_15="myusername"
 # echo #codex_15
 # Run the script with: bash precodex.sh
@@ -92,6 +92,7 @@ codex_82="Nina Predap, Third Floret"
 codex_83="kilgarts"
 codex_84="opituf"
 codex_85="lukey"
+codex_86="Yekong995"
 
 
 echo $codex_01
@@ -179,3 +180,4 @@ echo $codex_82
 echo $codex_83
 echo $codex_84
 echo $codex_85
+echo $codex_86
